@@ -48,8 +48,8 @@ Independent quantitative researcher on the WorldQuant BRAIN platform. Developed 
 
 ## Screenshots
 
-![IS Summary Example](<img width="1071" height="452" alt="image" src="https://github.com/user-attachments/assets/b935be78-b85c-4f42-a218-25a5e66e9952" />
-)
+<img width="1060" height="435" alt="image" src="https://github.com/user-attachments/assets/63d49a6e-b20c-4beb-82e3-4b40592ba1b5" />
+
 
 *Example of a validated alpha's IS Summary showing Sharpe, Turnover, and Fitness.*
 
