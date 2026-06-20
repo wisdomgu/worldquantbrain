@@ -6,7 +6,7 @@ Independent quantitative researcher on the WorldQuant BRAIN platform. Developed 
 
 ## Key Achievements
 
-- **Gold Level** – Top tier of platform participants
+- **Silver Level** – Acquired 5,000 Points
 - **5 Validated Alphas** – All passed Fitness > 1.0 threshold
 - **Best Sharpe: 1.97** – Risk-adjusted return metric
 - **Lowest Turnover: 1.62%** – Ultra-low transaction costs
@@ -48,7 +48,8 @@ Independent quantitative researcher on the WorldQuant BRAIN platform. Developed 
 
 ## Screenshots
 
-![IS Summary Example](images/is_summary_example.png)
+![IS Summary Example](<img width="1071" height="452" alt="image" src="https://github.com/user-attachments/assets/b935be78-b85c-4f42-a218-25a5e66e9952" />
+)
 
 *Example of a validated alpha's IS Summary showing Sharpe, Turnover, and Fitness.*
 
