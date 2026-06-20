@@ -81,7 +81,7 @@ This work is part of my broader quantitative research:
 
 ## Related Work
 
-- [Regim Platform]([https://regim.vercel.app](https://regim-dashboard.vercel.app/))
+- [Regim Platform](https://regim-dashboard.vercel.app/)
 - [Paper: Regime Survival Forecasting for Adaptive Execution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6763019)
 - [LinkedIn Profile](https://www.linkedin.com/in/satish-garg/)
 
